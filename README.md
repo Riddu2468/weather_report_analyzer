@@ -74,6 +74,6 @@ This project demonstrates the practical use of Python fundamentals, including li
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+RIDAAN AHMED SIDDIQUI
 
 A Python project created for learning and practicing programming and basic data analysis.
